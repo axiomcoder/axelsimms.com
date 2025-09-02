@@ -1,5 +1,7 @@
 ---
 title: Axel Simms
+draft: false
+tags: home
 ---
 This is the development diary of an AI and Machine Learning Engineer and Researcher. 
 
